@@ -1,0 +1,7 @@
+[package]
+name = "rping"
+version = "0.1.0"
+authors = ["kiven <kiven.mr@gmail.com>"]
+
+[dependencies]
+pnet = "0.16.0"
